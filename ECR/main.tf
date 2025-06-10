@@ -31,7 +31,7 @@ module "sidhu_backend" {
 
 
 # module "ark_base_image_php" {
-#   source = "terraform-aws-modules/ecr/aws"  ########
+#   source = "terraform-aws-modules/ecr/aws"  
 
 #   repository_name                 = "ark-base-image-php"
 #   repository_image_tag_mutability = "MUTABLE"
